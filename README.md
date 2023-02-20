@@ -17,5 +17,8 @@ When app starts, you can see city name, current temperature, minimum and maximum
 
 Recording of app:
 
-https://user-images.githubusercontent.com/36795459/165523376-285af136-e8b7-4b55-9000-dc4ada18638b.mp4
+
+
+/Users/nikitavolkodav/VolkodavWeatherGit/Recording App/Recording App.mp4
+
 
