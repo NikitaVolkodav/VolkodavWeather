@@ -28,6 +28,28 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "FD906D5129ACA78200C79C85"
+               BuildableName = "UnitTestsVolkodavWeather.xctest"
+               BlueprintName = "UnitTestsVolkodavWeather"
+               ReferencedContainer = "container:VolkodavWeather.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "FD906D5E29ACA84C00C79C85"
+               BuildableName = "UITestsVolkodavWeather.xctest"
+               BlueprintName = "UITestsVolkodavWeather"
+               ReferencedContainer = "container:VolkodavWeather.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
    </TestAction>
    <LaunchAction
